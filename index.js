@@ -16,4 +16,5 @@ const facts = [
 
 function johnLennonFacts(arr){
   
+  
 }
