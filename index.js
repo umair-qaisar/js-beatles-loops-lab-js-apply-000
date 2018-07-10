@@ -15,6 +15,6 @@ const facts = [
 ];
 
 function johnLennonFacts(arr){
-  
+  var i = 
   
 }
